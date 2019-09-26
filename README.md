@@ -6,6 +6,12 @@ This project is the implementation of the paper- S. M. Azizul Hakim and Asaduzza
 * keras on tensorflow backend
 * Implemented on Google Colab
 
+## Datasets
+BanglaLekha-Isolated is used for train and validation. Some of the images were removed for their ambiguous nature. Prepared test dataset is used for cross-validation.
+
+## Architecture
+
+
 
 
 

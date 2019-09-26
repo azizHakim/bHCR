@@ -10,6 +10,7 @@ This project is the implementation of the paper- S. M. Azizul Hakim and Asaduzza
 BanglaLekha-Isolated is used for train and validation. Some of the images were removed for their ambiguous nature. Prepared test dataset is used for cross-validation.
 
 ## Architecture
+![arch](https://github.com/azizHakim/bHCR/blob/master/Architecture.PNG)
 
 
 
